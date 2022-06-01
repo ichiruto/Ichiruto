@@ -46,10 +46,10 @@
 </div>
 <hr>
 
-<!--   <h3 align="center">About me</h3>
-    I'm 20 years old and always trying to be better at what I do 😎<br>
+   <h3 align="center">About me</h3>
+    I'm 20 years old, always doing my best as much as possible🤖<br>
     I'm a computer science student of the <a href="https://al.unit.br">Group Tirantentes University at Maceió</a><br>
-    I'm currently working with react, nest.js, postgress and Node.js.<br> -->
+    I'm currently studyng with react, nest.js,TS,JS,CSS,HTML and Node.js.<br> 
 
 <h2 align="center">My contact</h2>
 <div align="center">
