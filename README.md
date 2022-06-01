@@ -54,5 +54,5 @@
 <h2 align="center">My contact</h2>
 <div align="center">
   <a href="mailto:Rodrigo201101@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href=https://www.linkedin.com/in/gabriel-gomes-a646aa1b6/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=https://www.linkedin.com/in/rodrigo-teixeira-191b4a20a//><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
