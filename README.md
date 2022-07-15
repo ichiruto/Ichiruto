@@ -49,7 +49,7 @@
    <h3 align="center">About me</h3>
     Tenho 20 anos, sempre dou o meu melhor na medida do possível🤖<br>
     Sou estudante do curso de ciências da computação da <a href="https://al.unit.br">Universidade Tiradentes de Maceió</a><br>
-    Eu atualmente estou estudando react, nest.js,TS,JS,CSS,HTML and Node.js.<br> 
+    Eu atualmente tenho conhecimento sólido em JS,CSS,HTML e estou estudando react, nest.js,TS,Node.js e mongoDb.<br> 
 
 <h2 align="center">My contact</h2>
 <div align="center">
