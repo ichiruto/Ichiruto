@@ -47,9 +47,9 @@
 <hr>
 
    <h3 align="center">About me</h3>
-    I'm 20 years old, always doing my best as much as possible🤖<br>
-    I'm a computer science student of the <a href="https://al.unit.br">Group Tirantentes University at Maceió</a><br>
-    I'm currently studyng with react, nest.js,TS,JS,CSS,HTML and Node.js.<br> 
+    Tenho 20 anos, sempre dou o meu melhor na medida do possível🤖<br>
+    Sou estudante do curso de ciências da computação da <a href="https://al.unit.br">Universidade Tiradentes de Maceió</a><br>
+    Eu atualmente estou estudando react, nest.js,TS,JS,CSS,HTML and Node.js.<br> 
 
 <h2 align="center">My contact</h2>
 <div align="center">
